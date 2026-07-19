@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/TheDaBrains/BrainLink/main/assets/sj.png" height="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TheDaBrains/BrainLink/main/public/sj.png" height="200"></p>
 
 <h1 align="center">Scramjet Demo</h1>
 
