@@ -9,6 +9,5 @@ If you find my projects helpful, please consider supporting my development:
 
 ### 🚀 Quick Badges
 
-[![GitHub Sponsors](https://shields.io)](https://github.com)
-[![Support me on Ko-fi](https://shields.io)](https://ko-fi.com)
+[![Support me on Ko-fi](https://shields.io)](https://ko-fi.com/Enickel8)
 
